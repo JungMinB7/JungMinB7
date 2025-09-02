@@ -10,31 +10,32 @@
 
 --- 
 
-🎓 Certification
+### 🎓 Certification 
 
 OPic IH
 
 ---
 
-🧰 Tech Stack
+### 🧰 Tech Stack 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,mysql)](https://skillicons.dev)
 
 ---
 
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JungMinB7&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungMinB7&layout=compact)
 
 ---
 
-💻 Algorithm (BOJ / solved.ac)
+### 💻 Algorithm (BOJ / solved.ac) 
 
 
 ---
 
-📫 Contact
+### 📫 Contact 
 
 - 이메일: ljlm0829@gmail.com
 - 전화번호: +82 10-7232-1409
