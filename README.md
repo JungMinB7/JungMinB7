@@ -6,7 +6,7 @@
 
 ### ✨ Projects
 
-- KakaoBase 수강생들을 위한 AI + SNS 웹서비스 / AWS · Spring Boot · Next.js · FastAPI (2025.04 ~ 2025.07) 
+- KakaoBase 수강생들을 위한 AI + SNS 웹서비스 / AWS (2025.04 ~ 2025.07) 
 
 --- 
 
