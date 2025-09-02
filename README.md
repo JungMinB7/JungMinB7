@@ -7,8 +7,8 @@
 
 ### ✨ Projects
 
-- KakaoBase / AWS · Spring Boot · Next.js · FastAPI (YYYY.MM ~ YYYY.MM)
-  └ 3-Tier-Architecture, Blue‑Green 배포(ASG+ALB+CodeDeploy), 모니터링(Grafana/Prometheus), CI/CD(GitHub       
+- KakaoBase / AWS · Spring Boot · Next.js · FastAPI (YYYY.MM ~ YYYY.MM) 
+└ 3-Tier-Architecture, Blue‑Green 배포(ASG+ALB+CodeDeploy), 모니터링(Grafana/Prometheus), CI/CD(GitHub       
 Actions)
 
 --- 
