@@ -3,13 +3,10 @@
 ### 🏃‍♀️ Activities
 
 - KakaoTech Bootcamp Cloud Native 2th (2025.01 ~ 2025.08)
-### JungMin LEE
 
 ### ✨ Projects
 
-- KakaoBase / AWS · Spring Boot · Next.js · FastAPI (YYYY.MM ~ YYYY.MM) 
-└ 3-Tier-Architecture, Blue‑Green 배포(ASG+ALB+CodeDeploy), 모니터링(Grafana/Prometheus), CI/CD(GitHub       
-Actions)
+- KakaoBase 수강생들을 위한 AI + SNS 웹서비스 / AWS · Spring Boot · Next.js · FastAPI (2025.04 ~ 2025.07) 
 
 --- 
 
