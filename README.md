@@ -18,7 +18,7 @@
 
 ### 🧰 Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,aws,terraform,docker,githubactions,mysql)](https://skillicons.dev)
 
 ---
 
