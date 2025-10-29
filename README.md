@@ -12,7 +12,7 @@
 
 ### 🎓 Certification 
 
-OPic IH
+- OPic IH
 
 ---
 
