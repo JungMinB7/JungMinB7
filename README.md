@@ -8,7 +8,7 @@
 ### ✨ Projects
 
 - Zeebra 명품 의류 구매를 위한 실시간 거래 서비스 / Backend (2025.10 ~ 2025.12)
-- KakaoBase 수강생들을 위한 AI + SNS 웹서비스 / AWS (2025.04 ~ 2025.07) 
+- KakaoBase 수강생들을 위한 AI + SNS 웹서비스 / AWS (2025.04 ~ 2025.08) 
 
 --- 
 
